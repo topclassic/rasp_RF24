@@ -16,6 +16,7 @@ But recent testing has been only LIBRARY plus "example-nrf24-pair.py" on virtual
 Setting Raspberry Pi
 
   mkdir NRF24L01
+  
   cd NRF24L01
 
   git clone https://github.com/topclassic/lib_rf24
