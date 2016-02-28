@@ -19,7 +19,7 @@ Setting Raspberry Pi
   
   cd NRF24L01
 
-  git clone https://github.com/topclassic/lib_rf24
+  git clone https://github.com/topclassic/rasp_rf24
   
   cd lib_rf24
   
